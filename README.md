@@ -2,7 +2,7 @@
 
 Linkedin: www.linkedin.com/in/davibeber
 
-
+Curriculo: https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing
 
 
 
