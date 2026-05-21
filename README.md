@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Linkedin: www.linkedin.com/in/davibeber
+
+
+
+
+
 <!--
 **davibeber/davibeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
