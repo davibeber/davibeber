@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 
 Linkedin: www.linkedin.com/in/davibeber
 
