@@ -1,9 +1,7 @@
 ## Hello there! 👋
 
-Linkedin: www.linkedin.com/in/davibeber
 
-Curriculo: https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing
-
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](www.linkedin.com/in/davibeber) [![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing)
 
 
 <!--
