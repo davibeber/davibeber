@@ -8,6 +8,13 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
 [![Static Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple&color=purple)](https://www.instagram.com/d.beberibeiro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/davibeber/) [![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing)
 
 
+
+<img 
+align="right"
+height="190px"
+src="/img/knight.jpg">
+
+
 <h3 align="left">Atualmente revisando:</h3>
 
 <img
@@ -33,13 +40,6 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
-
-<img 
-align="right"
-width="420px"
-src="/img/knight.jpg">
-
 
 <br/>
 <br/>
@@ -106,9 +106,6 @@ src="/img/knight.jpg">
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
-
-
-
 
 <br/>
 <br/>
