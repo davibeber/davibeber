@@ -37,7 +37,7 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
 
 <img 
 align="right"
-width="250px"
+width="450px"
 src="/img/knight.jpg">
 
 
