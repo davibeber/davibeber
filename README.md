@@ -15,6 +15,7 @@ height="190px"
 src="/img/knight.jpg">
 
 
+
 <h3 align="left">Atualmente revisando:</h3>
 
 <img
@@ -45,7 +46,7 @@ src="/img/knight.jpg">
 <br/>
 
 
-<h3 align="left">Tecnologias e linguagens conhecidas:</h3>
+<h3 align="left">Linguagens e ferramentas conhecidas:</h3>
 
 <img
     align="left"
@@ -111,11 +112,11 @@ src="/img/knight.jpg">
 <br/>
 
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davibeber&theme=gotham&animation=load&duration=1) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davibeber&theme=gotham&animation=load&duration=1) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davibeber&theme=gotham&animation=load&duration=1&utcOffset=-3)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davibeber&theme=gotham&animation=load&duration=1&name=Davi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davibeber&theme=gotham&animation=load&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davibeber&theme=gotham&animation=load&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davibeber&theme=gotham&animation=load&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davibeber&theme=gotham&animation=load&duration=1&utcOffset=-3)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davibeber&theme=android-dark&hide_border=true&locale=pt_BR&timezone=-3&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
