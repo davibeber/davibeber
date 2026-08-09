@@ -1,36 +1,109 @@
 ## Hello there! 👋
 
 
-<div>
-    <img src="/img/knight.jpg" width="600 rem">
-</div><br><br>
 
 DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte CTRL + clique do mouse, se não ao clicar vai sobressair na pagina atual.
 
 
-
-[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/davibeber/) [![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing) [![Static Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple&color=purple)](https://www.instagram.com/d.beberibeiro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-
-
-Atualmente revisando:
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
-    <img class="logo_habilidades" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-</div><br>
-Tecnologias e linguagens conhecidas:
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
-</div><br>
+[![Static Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple&color=purple)](https://www.instagram.com/d.beberibeiro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/davibeber/) [![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing)
 
 
-Próximos Passos & Estudos:
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" />
-</div><br><br>
+<h3 align="left">Atualmente revisando:</h3>
+
+<img
+    align="left"
+    width="30px"
+    title="HTML"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+    align="left"
+    width="30px"
+    title="CSS"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img 
+    align="left"
+    width="30px"
+    title="GIT"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+
+<img src="/img/knight.jpg" width="100 rem" align="right">
+
+
+<br/>
+<br/>
+
+
+<h3 align="left">Tecnologias e linguagens conhecidas:</h3>
+
+<img
+    align="left"
+    width="30px"
+    title="Python"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    width="30px"
+    title="JAVA"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
+    width="30px"
+    title="Pycharm"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+/>      
+
+<img
+    align="left"
+    width="30px"
+    title="Intelij"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
+
+<img 
+    align="left"
+    width="30px"
+    title="Eclipse"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
+/>
+<br/>
+<br/>
+
+<h3 align="left">Próximos Passos & Estudos:</h3>
+
+<img
+    align="left"
+    width="30px"
+    title="Eclipse"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left"
+    width="30px"
+    title="Eclipse"
+    align="left"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 
 
 
