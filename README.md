@@ -2,7 +2,7 @@
 
 
 <div>
-    <img src="/img/banner.jpg">
+    <img src="/img/knight.jpg">
 </div><br><br>
 
 
