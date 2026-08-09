@@ -35,7 +35,10 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
 />
 
 
-<img src="/img/knight.jpg" width="100 rem" align="right">
+<img 
+align="right"
+width="200 rem"
+src="/img/knight.jpg">
 
 
 <br/>
