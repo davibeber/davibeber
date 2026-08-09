@@ -37,7 +37,7 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
 
 <img 
 align="right"
-width="200 rem"
+width="250px"
 src="/img/knight.jpg">
 
 
@@ -87,7 +87,6 @@ src="/img/knight.jpg">
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
 <br/>
-<br/>
 
 <h3 align="left">Próximos Passos & Estudos:</h3>
 
@@ -111,6 +110,8 @@ src="/img/knight.jpg">
 
 
 
+<br/>
+<br/>
 
 
 
