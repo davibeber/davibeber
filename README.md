@@ -37,7 +37,7 @@ DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte 
 
 <img 
 align="right"
-width="450px"
+width="420px"
 src="/img/knight.jpg">
 
 
@@ -112,9 +112,6 @@ src="/img/knight.jpg">
 
 <br/>
 <br/>
-
-
-
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davibeber&theme=gotham&animation=load&duration=1&name=Davi)
