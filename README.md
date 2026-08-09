@@ -2,7 +2,7 @@
 
 
 <div>
-    <img src="/img/knight.jpg" width="400 rem">
+    <img src="/img/knight.jpg" width="600 rem">
 </div><br><br>
 
 DICA: se estiver no computador, clique nos links abrindo uma nova aba ou aperte CTRL + clique do mouse, se não ao clicar vai sobressair na pagina atual.
