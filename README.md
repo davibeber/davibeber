@@ -125,7 +125,7 @@ src="/img/knight.jpg">
 <br>
 <br>
 
-<!-->
+<!--
 <div style="margin-top: 100px;" align="center" height=10px>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davibeber&theme=gotham&animation=load&duration=1) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davibeber&theme=gotham&animation=load&duration=1) 
