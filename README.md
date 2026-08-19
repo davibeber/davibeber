@@ -17,9 +17,9 @@ Embora sempre estivesse conectado no dia a dia como qualquer pessoa, meu interes
 
 
 
-<!--
+
 [![Static Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple&color=purple)](https://www.instagram.com/d.beberibeiro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/davibeber/) [![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://drive.google.com/file/d/1p1FWegGDf75MCnco46GSS55i0veZ12UW/view?usp=sharing)
--->
+
 
 
 <img 
@@ -125,13 +125,14 @@ src="/img/knight.jpg">
 <br>
 <br>
 
+<!-->
 <div style="margin-top: 100px;" align="center" height=10px>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davibeber&theme=gotham&animation=load&duration=1) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davibeber&theme=gotham&animation=load&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davibeber&theme=gotham&animation=load&duration=1) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davibeber&theme=gotham&animation=load&duration=1) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davibeber&theme=gotham&animation=load&duration=1&name=Davi)
+</div>-->
 
-</div>
 <!--
 **davibeber/davibeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
