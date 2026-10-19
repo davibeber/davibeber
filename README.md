@@ -111,6 +111,17 @@ src="/img/knight.jpg"> -->
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
+<img 
+    align="left"
+    width="40px"
+    title="SQL"
+    align="left"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+
+
 <img
     align="left"
     width="40px"
@@ -134,17 +145,7 @@ src="/img/knight.jpg"> -->
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
-<br/>
 
-
-<img 
-    align="left"
-    width="40px"
-    title="Eclipse"
-    align="left"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
 
 <br>
 <br>
