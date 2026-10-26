@@ -13,7 +13,7 @@ Embora sempre estivesse conectado no dia a dia como qualquer pessoa, meu interes
 
 **DICA: Se estiver no computador, clique nos links apertando CTRL + "botao esquerdo do mouse", se não ao clicar vai sobrescrever na pagina atual.**
 
-![Static Badge](https://img.shields.io/badge/portifolio-%2308038A?style=for-the-badge&color=%2308038A)
+![Static Badge](https://img.shields.io/badge/Portifolio-blue?style=for-the-badge&color=darkblue&link=https%3A%2F%2Fdavibeber-portfolio.vercel.app%2F)
 
 
 
